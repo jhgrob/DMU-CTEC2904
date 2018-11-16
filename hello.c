@@ -2,6 +2,6 @@
 
 //Hello World program - JH Grob - OCt '17 int main() {
 
-printf("Fare thee well");
+printf("Hello world!");
 
 }

@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-//Hello World program - JH Grob - OCt '17 int main() {
+//Hello World program - JH Grob - Nov '18 
 
-printf("Fare thee well!\nHello World!");
-printf("Quicker version!");
+int main() {
+
+printf("Hello World!\n");
+printf("Hello You!\n");
 
 }
